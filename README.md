@@ -1,9 +1,6 @@
 ### 👋 Hi there I'm James Unekwuojo
 ### 🤔  A fullstack developer that loves CODING.  
-<!-- [![wakatime](https://wakatime.com/badge/user/018bc8ee-3be3-4ba3-a773-395aa19a0efe/project/018bdad7-60f5-4ff1-8a75-203e0264b463.svg)](https://wakatime.com/badge/user/018bc8ee-3be3-4ba3-a773-395aa19a0efe/project/018bdad7-60f5-4ff1-8a75-203e0264b463) -->
-[![wakatime](https://wakatime.com/badge/user/018bc8ee-3be3-4ba3-a773-395aa19a0efe/project/018bcf92-152d-4d3b-b949-702c9efcd1fa.svg)](https://wakatime.com/badge/user/018bc8ee-3be3-4ba3-a773-395aa19a0efe/project/018bcf92-152d-4d3b-b949-702c9efcd1fa)
-<!-- wakatime stats -->
-<!-- wakatime stats end -->
+<a href="https://wakatime.com/@018bc8ee-3be3-4ba3-a773-395aa19a0efe"><img src="https://wakatime.com/badge/user/018bc8ee-3be3-4ba3-a773-395aa19a0efe.svg" alt="Total time coded since Nov 13 2023" /></a>
 
 
 <!--
