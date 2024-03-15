@@ -1,4 +1,4 @@
-### 👋 Hi there I'm James Unekwuojo
+### 👋 Hi Dear I'm James Unekwuojo
 ### 🤔  A fullstack developer that loves CODING.  
 <a href="https://wakatime.com/@018bc8ee-3be3-4ba3-a773-395aa19a0efe"><img src="https://wakatime.com/badge/user/018bc8ee-3be3-4ba3-a773-395aa19a0efe.svg" alt="Total time coded since Nov 13 2023" /></a>
 
