@@ -4,14 +4,17 @@
 
 ## My Tech Stack
 
-- <i class="fa fa-html5 fa-2x" style="color: #E34F26;"></i> **HTML5**
-- <i class="fa fa-css3 fa-2x" style="color: #1572B6;"></i> **CSS3**
-- <i class="fa fa-js fa-2x" style="color: #F7DF1E;"></i> **JavaScript**
-- <i class="fa fa-react fa-2x" style="color: #61DAFB;"></i> **React**
-- <i class="fa fa-bootstrap fa-2x" style="color: #563D7C;"></i> **Bootstrap**
-- <i class="fa fa-node fa-2x" style="color: #339933;"></i> **Node.js**
-- <i class="fa fa-database fa-2x" style="color: #47A248;"></i> **MongoDB**
-- <i class="fa fa-git fa-2x" style="color: #F05032;"></i> **Git**
+- <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40"/> **HTML5**
+- <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"/> **CSS3**
+- <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"/> **JavaScript**
+- <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" height="40"/> **React**
+- <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="40" height="40"/> **Bootstrap**
+- <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40"/> **Node.js**
+- <img src="https://img.icons8.com/color/48/000000/express.png" width="40" height="40"/> **Express.js**
+- <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40"/> **MongoDB**
+- <img src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40"/> **Git**
+
+
 
 
 
