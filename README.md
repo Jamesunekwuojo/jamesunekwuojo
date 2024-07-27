@@ -2,18 +2,19 @@
 ### 🤔  A fullstack developer that loves CODING.  
 <a href="https://wakatime.com/@018bc8ee-3be3-4ba3-a773-395aa19a0efe"><img src="https://wakatime.com/badge/user/018bc8ee-3be3-4ba3-a773-395aa19a0efe.svg" alt="Total time coded since Nov 13 2023" /></a>
 
-## My Tech Stack:
+## My Tech Stack
 
-- ![HTML5](https://img.icons8.com/color/20/000000/html-5.png) **HTML5**
-- ![CSS3](https://img.icons8.com/color/20/000000/css3.png) **CSS3**
-- ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) **JavaScript**
-- ![React](https://img.icons8.com/color/20/000000/react-native.png) **React**
-- ![Bootstrap](https://img.icons8.com/color/20/000000/bootstrap.png) **Bootstrap**
-- ![Node.js](https://img.icons8.com/color/20/000000/nodejs.png) **Node.js**
-- ![Express.js](https://img.icons8.com/color/20/000000/express.png) **Express.js**
-- ![MongoDB](https://img.icons8.com/color/20/000000/mongodb.png) **MongoDB**
-- ![Git](https://img.icons8.com/color/20/000000/git.png) **Git**
-- ![GitHub](https://img.icons8.com/color/20/000000/github.png) **GitHub**
+- <i class="fa fa-html5 fa-2x" style="color: #E34F26;"></i> **HTML5**
+- <i class="fa fa-css3 fa-2x" style="color: #1572B6;"></i> **CSS3**
+- <i class="fa fa-js fa-2x" style="color: #F7DF1E;"></i> **JavaScript**
+- <i class="fa fa-react fa-2x" style="color: #61DAFB;"></i> **React**
+- <i class="fa fa-bootstrap fa-2x" style="color: #563D7C;"></i> **Bootstrap**
+- <i class="fa fa-node fa-2x" style="color: #339933;"></i> **Node.js**
+- <i class="fa fa-database fa-2x" style="color: #47A248;"></i> **MongoDB**
+- <i class="fa fa-git fa-2x" style="color: #F05032;"></i> **Git**
+
+
+
 
 
 
