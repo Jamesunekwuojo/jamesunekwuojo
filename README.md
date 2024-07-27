@@ -4,7 +4,7 @@
 
 ## My Tech Stack:
 <div styles="display:flex; flex-direction◀️;">
-  <div styles="display:flex; flex-direction:column">
+  <div styles="display:flex; flex-direction◀️">
     <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40"/> 
     <p>HTML5</p>
   </div>
