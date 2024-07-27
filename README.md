@@ -4,7 +4,11 @@
 
 ## My Tech Stack
 <div styles="display:flex; flex-direction⏬">
-- <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40"/> **HTML5**
+  <div styles="display:flex; flex-direction:column">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40"/> 
+    <p>HTML5</p>
+  </div>
+
 - <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"/> **CSS3**
 - <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"/> **JavaScript**
 - <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" height="40"/> **React**
