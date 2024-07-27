@@ -44,8 +44,21 @@
     </td>
     <td>
       <img src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000" width="40" height="40"/>
+      <img src="https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000" width="40" height="40"/>
       <p>Python</p>
     </td>
+
+    <td>
+      <img src="https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000" width="40" height="40"/>
+      <p>C++</p>
+    </td>
+
+    <td>
+      <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" width="40" height="40"/>
+      <p>C</p>
+    </td>
+
+  
     
   </tr>
 </table>
