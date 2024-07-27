@@ -3,7 +3,7 @@
 <a href="https://wakatime.com/@018bc8ee-3be3-4ba3-a773-395aa19a0efe"><img src="https://wakatime.com/badge/user/018bc8ee-3be3-4ba3-a773-395aa19a0efe.svg" alt="Total time coded since Nov 13 2023" /></a>
 
 ## My Tech Stack:
-<div styles="display:flex; flex-direction⏬">
+<div styles="display:flex; flex-direction:row;">
   <div styles="display:flex; flex-direction:column">
     <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40"/> 
     <p>HTML5</p>
