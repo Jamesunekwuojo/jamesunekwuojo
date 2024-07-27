@@ -42,6 +42,11 @@
       <img src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40"/> 
       <p>Git</p>
     </td>
+    <td>
+      <img src="https://icons8.com/icon/Rc0Xn5AtE8kX/python" width="40" height="40"/>
+      <p>Python</p>
+    </td>
+    
   </tr>
 </table>
 
