@@ -5,18 +5,18 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF73F&random=false&width=435&lines=Hi+Dear%F0%9F%91%8B;I+am+James+Unekwuojo" alt="Typing SVG" /></a></h1>
 <h3 align="center">A softaware enthusiast that loves CODING🤔, always eager to learn new things and explore the vast world of technology.</h3>
 
-
+```javascript
 const James = {
   pronouns: "He" | "Him",
   niche: "Full-stack web developer",
   lookingFor: "collaborations on Full stack Web Projects",
   workingOn: "Job posting web app",
-  funFact: ""
+  funFact: "still looking for one..."
  
 }
 
 
-
+```
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJamesunekwuojo%2Fjamesunekwuojo%2F&countColor=%23263759)
  
 <a href="https://wakatime.com/@018bc8ee-3be3-4ba3-a773-395aa19a0efe"><img src="https://wakatime.com/badge/user/018bc8ee-3be3-4ba3-a773-395aa19a0efe.svg" alt="Total time coded since Nov 13 2023" /></a>
