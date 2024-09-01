@@ -8,7 +8,7 @@
 ```javascript
 const James = {
   pronouns: "He" | "Him",
-  niche: "Full-stack web developer",
+  niche: "Full-stack web dev",
   lookingFor: "collaborations on Full stack Web Projects",
   workingOn: "Job posting web app",
   funFact: "still looking for one..."
