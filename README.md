@@ -1,9 +1,20 @@
 
 <h2 align="center">
-  <img src='/welcomeMsg.png'/> <span><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"></span>
-  
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="border: none; border-radius: 10px; overflow: hidden;">
+        <img src='/welcomeMsg.png' alt="Welcome Message" style="display: block;" />
+      </td>
+      <td style="border: none; border-radius: 10px; overflow: hidden; margin-left: 10px;">
+        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" alt="Hi GIF" style="display: block;" />
+      </td>
+    </tr>
+  </table>
 </h2>
-<img src='/welcomeMsg.png'/>
+
+
+
+
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF73F&random=false&width=435&lines=Hi+Welcome+ to+my+profile%F0%9F%91%8B;I+am+James+Unekwuojo" alt="Typing SVG" /></a></h1>
 <h3 align="center">A softaware enthusiast that loves CODING🤔, always eager to learn new things and explore the vast world of technology.</h3>
