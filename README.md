@@ -1,5 +1,8 @@
 
-
+<h2 align="center">
+  <img src='/welcomeMsg.png'/> <span><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"></span>
+  
+</h2>
 <img src='/welcomeMsg.png'/>
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF73F&random=false&width=435&lines=Hi+Welcome+ to+my+profile%F0%9F%91%8B;I+am+James+Unekwuojo" alt="Typing SVG" /></a></h1>
