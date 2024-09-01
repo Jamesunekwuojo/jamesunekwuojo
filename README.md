@@ -96,6 +96,15 @@ const James = {
   </tr> 
 </table>
 
+## 🏆 GitHub Trophies
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jamesunekwuojo&&row=2&column=3&show_icons=true&theme=radical" alt="EngruugbeJimmy" />
+    <!--<img src="https://github-profile-trophy.vercel.app/?username=jamesunekwuojo&title=Stars,Followers,Commits"/>-->
+  </a>
+
+
+
+
 
 
 
