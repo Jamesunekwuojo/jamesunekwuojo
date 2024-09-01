@@ -6,6 +6,16 @@
 <h3 align="center">A softaware enthusiast that loves CODING🤔, always eager to learn new things and explore the vast world of technology.</h3>
 
 
+const James = {
+  pronouns: "He" | "Him",
+  niche: "Full-stack web developer",
+  lookingFor: "collaborations on Full stack Web Projects",
+  workingOn: "Job posting web app",
+  funFact: ""
+ 
+}
+
+
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJamesunekwuojo%2Fjamesunekwuojo%2F&countColor=%23263759)
  
