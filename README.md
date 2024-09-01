@@ -22,7 +22,7 @@ const James = {
 <a href="https://wakatime.com/@018bc8ee-3be3-4ba3-a773-395aa19a0efe"><img src="https://wakatime.com/badge/user/018bc8ee-3be3-4ba3-a773-395aa19a0efe.svg" alt="Total time coded since Nov 13 2023" /></a>
 
 
-## My Tech Stack:
+## 💻 Tech Stack:
 
 <table>
   <tr>
@@ -76,6 +76,19 @@ const James = {
     </td>
   </tr>
 </table>
+
+
+## 📊 GitHub Stats:
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesunekwuojo&theme=monokai&hide_border=false&include_all_commits=true&count_private=true">
+  <br>
+  <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamesunekwuojo&theme=monokai&hide_border=false">
+  <br>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesunekwuojo&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</div>
+
 
 
 
