@@ -89,7 +89,12 @@ const James = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesunekwuojo&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
-
+# 📈 Productivity Stats:
+<table align="center">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamesunekwuojo&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+  </tr> 
+</table>
 
 
 
