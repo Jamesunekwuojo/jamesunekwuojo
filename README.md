@@ -16,7 +16,10 @@
 
 
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF73F&random=false&width=435&lines=Hi+Welcome+ to+my+profile%F0%9F%91%8B;I+am+James+Unekwuojo" alt="Typing SVG" /></a></h1>
+<h1 align="center">
+
+  
+</h1>
 <h3 align="center">A software engineering enthusiast that loves CODING🤔, always eager to learn new things and explore the vast world of technology.</h3>
 
 ```javascript
