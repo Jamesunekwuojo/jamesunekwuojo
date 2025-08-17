@@ -2,9 +2,9 @@
 <h2 align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr>
-<!--       <td style="border: none; border-radius: 10px; overflow: hidden;">
+      <td style="border: none; border-radius: 10px; overflow: hidden;">
         <img src='/welcomeMsg.png' alt="Welcome Message" style="display: block;" />
-      </td> -->
+      </td>
       <td style="border: none; border-radius: none; overflow: hidden; margin-left: 10px;">
         <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" alt="Hi GIF" style="display: block;" />
       </td>
@@ -20,7 +20,6 @@
 
   
 </h1>
-<h3 align="center">A software engineering enthusiast that loves CODING🤔, always eager to learn new things and explore the vast world of technology.</h3>
 
 ```javascript
 const James = {
