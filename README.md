@@ -21,15 +21,28 @@
   
 </h1>
 
-```javascript
-const James = {
-  pronouns: "He" | "Him",
-  niche: "Full-stack web dev",
-  lookingFor: "collaborations on Full stack Web Projects",
-  workingOn: "learning Rust..",
-  funFact: "still looking for one..."
- 
+```rust
+#[derive(Debug)]
+struct Name {
+    pronouns: &'static str,
+    niche: &'static str,
+    looking_for: &'static str,
+    working_on: &'static str,
 }
+
+fn main() {
+    let james = Name {
+        pronouns: "He/Him",
+        niche: "Backend dev",
+        looking_for: "collaborations on backend and low level stuffs",
+        working_on: "learning Rust..",
+    };
+
+    println!("print name {:?}", james);
+}
+
+
+
 
 
 ```
