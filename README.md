@@ -1,7 +1,7 @@
 <!-- Banner / Greeting -->
 <p align="center">
-  <img src="/welcomeMsg.png" alt="Welcome" height="80"/>
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" alt="Hi GIF"/>
+  <!-- <img src="/welcomeMsg.png" alt="Welcome" height="80"/>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" alt="Hi GIF"/> -->
 </p>
 
 <h1 align="center">Hi, I'm Unekwuojo James 👋</h1>
